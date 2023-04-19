@@ -23,10 +23,6 @@ ViroReact is a library for developers to rapidly build augmented reality (AR) an
   </tr>
 </table>
 
-# [Installing](readmes/INSTALL.md)
-
-If you are integrating ViroReact into an existing project, have a look at our [Installation instructions](readmes/INSTALL.md).
-
 If you are starting a fresh project with ViroReact, consider cloning our [starter kit](https://github.com/ViroCommunity/starter-kit) repo instead.
 
 # Documentation
@@ -41,8 +37,6 @@ The documentation is found [here](https://viro-community.readme.io/docs/overview
 
 # Examples
 
-See our [Example projects](readmes/EXAMPLES.md) page. These are a little old (~2019) but are a great reference point for how to use bits of the library.
-
 # Need help? Or want to contribute?
 
 <a href="https://discord.gg/H3ksm5NhzT">
@@ -56,9 +50,3 @@ ViroReact was originaly developed by the [Viro Media](http://www.viromedia.com/)
 We, as a community, owe a great debt to Viro Media and the people who developed this library originally. We hope to make them proud as it continues to develop and grow in the Viro Community.
 
 # Supporters
-
-<p align="center">
-  <a href="https://themorrow.digital/">
-    <img src="readmes/morrow-supporter.png" alt="Morrow">
-  </a>
-</p>
